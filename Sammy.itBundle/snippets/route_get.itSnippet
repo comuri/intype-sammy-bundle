@@ -1,0 +1,8 @@
+﻿{
+	content: 'this.get(''#/${1:route}'', function(${2:context}) {
+  $3
+});$0'
+	title: 'route-get'
+	scope: 'source.js.jquery.sammy'
+	tab_trigger: 'rg'
+}

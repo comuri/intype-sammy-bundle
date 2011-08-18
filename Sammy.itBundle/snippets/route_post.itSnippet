@@ -1,0 +1,8 @@
+﻿{
+	content: 'this.post(''#/${1:route}'', function(${2:context}) {
+  $3
+});$0'
+	title: 'route-post'
+	scope: 'source.js.jquery.sammy'
+	tab_trigger: 'rp'
+}

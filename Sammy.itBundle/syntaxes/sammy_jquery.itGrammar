@@ -1,0 +1,10 @@
+﻿{
+	key_equivalent: 'Ctrl+Shift+Alt+S'
+	title: 'Sammy (jQuery)'
+	patterns: [
+		{
+			include: 'source.js.jquery'
+		}
+	]
+	scope_name: 'source.js.jquery.sammy'
+}

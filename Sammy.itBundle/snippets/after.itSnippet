@@ -1,0 +1,8 @@
+﻿{
+	content: 'this.after(function() {
+  $1
+});$0'
+	title: 'after'
+	scope: 'source.js.jquery.sammy'
+	tab_trigger: 'aft'
+}

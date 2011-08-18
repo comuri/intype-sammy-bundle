@@ -1,0 +1,8 @@
+{
+	content: 'this.before(''#/${1:route}'', function() {
+  $2
+});$0'
+	title: 'before'
+	scope: 'source.js.jquery.sammy'
+	tab_trigger: 'bef'
+}

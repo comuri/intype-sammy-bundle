@@ -1,0 +1,8 @@
+﻿{
+	content: 'this.partial(''${1:path}''${2:, {\}}, function(${3:data}) {
+  $4
+});$0'
+	title: 'partial'
+	scope: 'source.js.jquery.sammy'
+	tab_trigger: 'part'
+}

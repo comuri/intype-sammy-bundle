@@ -1,0 +1,20 @@
+{
+	content: '(function(\$) {
+  
+  var app = \$.sammy(function() {
+    this.element_selector = ''#${1:element_id}'';
+    
+    $2
+
+  });
+  
+  \$(function() {
+    app.run(''#/'');
+  });
+  
+})(jQuery);
+'
+	title: 'new_app'
+	scope: 'source.js.jquery.sammy'
+	tab_trigger: 'app'
+}

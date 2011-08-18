@@ -1,0 +1,12 @@
+{
+    menu: [
+        { item: "bundle.Sammy.snippet.new_app" }
+        { item: "bundle.Sammy.snippet.after" }
+        { item: "bundle.Sammy.snippet.before" }
+        { item: "bundle.Sammy.snippet.bind" }
+        { item: "bundle.Sammy.snippet.trigger" }
+        { item: "bundle.Sammy.snippet.route_get" }
+        { item: "bundle.Sammy.snippet.route_post" }
+        { item: "bundle.Sammy.snippet.partial" }
+    ]
+}

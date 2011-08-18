@@ -1,0 +1,6 @@
+﻿{
+	content: 'this.trigger(''${1:event}'');$0'
+	title: 'trigger'
+	scope: 'source.js.jquery.sammy'
+	tab_trigger: 'trig'
+}

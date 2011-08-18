@@ -1,0 +1,8 @@
+﻿{
+	content: 'this.bind(''${1:event}'', function() {
+  $2
+});$0'
+	title: 'bind'
+	scope: 'source.js.jquery.sammy'
+	tab_trigger: 'bind'
+}
